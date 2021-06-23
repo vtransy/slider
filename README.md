@@ -38,3 +38,8 @@ php bin/magento setup:static-content:deploy
 ```
 {{block class="Magestio\Slider\Block\Slider\Slider" slider_id="1"}}
 ```
+
+### Preview
+Banner:
+https://ibb.co/Bf2x0Nb
+
