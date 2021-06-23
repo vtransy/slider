@@ -33,3 +33,8 @@ php bin/magento setup:static-content:deploy
 ### Technical support
 
 * Web: [https://magestio.com/](https://magestio.com/)
+
+### Add slider block
+```
+{{block class="Magestio\Slider\Block\Slider\Slider" slider_id="1"}}
+```
