@@ -41,5 +41,5 @@ php bin/magento setup:static-content:deploy
 
 ### Preview
 Banner:
-https://i.postimg.cc/N0qv0W38/banner.png
+https://ibb.co/Bf2x0Nb
 
